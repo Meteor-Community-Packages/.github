@@ -12,6 +12,6 @@ https://meteor-community.slack.com - Join us at our **Slack** community!
 
 https://discord.gg/9GDmECsYdH - Join us at our **Discord** community!
 
-https://forums.meteor.com - Join us at our **Discord** community!
+https://forums.meteor.com - Join us at the **Meteor Forums**!
 
 https://meteor.com - The official Meteor.js website
