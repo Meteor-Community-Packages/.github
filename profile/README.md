@@ -10,6 +10,8 @@ https://packosphere.com - An alternative package browser to Atmosphere, provided
 
 https://meteor-community.slack.com - Join us at our **Slack** community!
 
-https://discord.gg/hwtF9U9 - Join us at our **Discord** community!
+https://discord.gg/9GDmECsYdH - Join us at our **Discord** community!
 
-https://meteor.com - The official Meteor.js website 
+https://forums.meteor.com - Join us at our **Discord** community!
+
+https://meteor.com - The official Meteor.js website
